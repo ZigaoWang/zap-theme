@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Zap Theme
+
+A Jekyll theme by Zigao Wang.
