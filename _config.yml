@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Zap-theme
+description: "A Jekyll theme developed by Zigao Wang."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
